@@ -4,10 +4,11 @@
 I built this app to learn react.js and how to fetch API data with it and decided that starting with something small and simple was the way forward.
 ```
 
-## Sneak peek
+## How it looks!
 
 
 <p><img src="firstappearance.png"></p>
+<p><img src="afterenteringvalues.png"></p>
 
 
 ## Running the app
