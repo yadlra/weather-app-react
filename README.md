@@ -1,8 +1,8 @@
 # Weather Now App
 
-```
+
 I built this app to learn react.js and how to fetch API data with it and decided that starting with something small and simple was the way forward.
-```
+
 
 ## Running the app
 
