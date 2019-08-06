@@ -6,7 +6,7 @@ I built this app to learn react.js and how to fetch API data with it and decided
 
 ## Sneak peek
 
-![What it looks like](/Users/Yadira/weather-app-react/src/img/firstappearance.png)
+![alt text](/Users/Yadira/weather-app-react/afterenteringvalues.png)
 ![What it looks like](/Users/Yadira/weather-app-react/src/img/afterenteringvalues.png)
 
 ## Running the app
