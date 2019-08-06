@@ -5,7 +5,9 @@ I built this app to learn react.js and how to fetch API data with it and decided
 
 
 ## Running the app
-
+### git clone this repo
+### cd weather-app-react
+### `npm install`
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
