@@ -6,8 +6,8 @@ I built this app to learn react.js and how to fetch API data with it and decided
 
 ## Sneak peek
 
-<p align="center"><img src="./img/firstappearance.png" /></p>
-![What it looks like](/Users/Yadira/weather-app-react/src/img/firstappearance.png)
+
+![What it looks like](img/firstappearance.png)
 ![What it looks like](/Users/Yadira/weather-app-react/src/img/afterenteringvalues.png)
 
 ## Running the app
