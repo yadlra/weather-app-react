@@ -12,7 +12,7 @@ I built this app to learn react.js and how to fetch API data with it and decided
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm test` - not yet
+### `npm test` 
 
 ## How it looks!
 
